@@ -6,6 +6,13 @@
 	"repository": "git@github.com:jboucly/MMM-Hue-Controller.git",
 	"author": "jboucly <julien.boucly@outlook.com>",
 	"license": "MIT",
+	"keywords": [
+		"philips-hue",
+		"media",
+		"smart-home",
+		"mirror",
+		"magic-mirror"
+	],
 	"dependencies": {
 		"node-fetch": "^2.7.0"
 	}
